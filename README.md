@@ -1,4 +1,4 @@
-bits
+Bits
 ====
 
-bits of code
+Bits of code
